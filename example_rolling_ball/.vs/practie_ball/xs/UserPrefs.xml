@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{12EA325D-D06B-51DC-C374-56478B5107C6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RolllingBall.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EnterTrigger.cs" Line="14" Column="34" />
+      <File FileName="Assets/Scripts/RolllingBall.cs" Line="28" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="practie_ball" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="RolllingBall.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a1c82c5f-f5b1-4b29-92b2-1cbba31d69c6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
